@@ -19,3 +19,5 @@
 3. **The `Elevator` class** represents an individual elevator in the system. It has a capacity limit and maintains a list of requests. The elevator processes requests concurrently and moves between floors based on the requests.
 4. **The `ElevatorController` class** manages multiple elevators and handles user requests. It finds the optimal elevator to serve a request based on the proximity of the elevators to the requested floor.
 5. **The `ElevatorSystem` class** is the entry point of the application and demonstrates the usage of the elevator system.
+# Class Diagram
+![LRU Cache Class Diagram](https://raw.githubusercontent.com/ashishps1/awesome-low-level-design/main/class-diagrams/lrucache-class-diagram.png)
